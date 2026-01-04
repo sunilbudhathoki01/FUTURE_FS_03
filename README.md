@@ -50,7 +50,7 @@ Clean and scalable code structure
 
 The project is deployed and publicly accessible.
 
-👉 Live URL: (add your Netlify link here after deployment)
+👉 Live URL: https://future-fs-03-23hgnhcsg-sunils-projects-6c7c69ac.vercel.app
 
 👤 Author
 
