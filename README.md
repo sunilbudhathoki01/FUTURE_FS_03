@@ -1,16 +1,58 @@
-# React + Vite
+Internship Task 3 – Future Interns
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Task: Rebrand a famous brand’s website using AI tools and modern frontend technologies.
 
-Currently, two official plugins are available:
+🏷️ Brand Chosen
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Nike
 
-## React Compiler
+🎨 Rebranding Concept
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Nike NeoSpeed – AI-Driven Performance Design
 
-## Expanding the ESLint configuration
+The website redesign focuses on bold typography, high-contrast visuals, and performance-focused messaging inspired by modern AI-assisted branding trends.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧠 AI Usage
+
+AI tools were used for:
+
+Branding inspiration and color palette generation
+
+UX copy and layout ideation
+
+Visual design concepts inspired by AI-generated design trends
+
+(Adobe Firefly / AI design tools were used for inspiration and visual direction.)
+
+🛠️ Tech Stack
+
+Frontend: Vite + React
+
+Styling: Tailwind CSS
+
+Design Approach: Component-based architecture
+
+Deployment: Netlify
+
+✨ Key Features
+
+Modern, responsive UI/UX
+
+Nike-inspired custom color system
+
+Reusable React components
+
+Mobile-first design
+
+Clean and scalable code structure
+
+🚀 Deployment
+
+The project is deployed and publicly accessible.
+
+👉 Live URL: (add your Netlify link here after deployment)
+
+👤 Author
+
+Ashis
+Future Interns – Full Stack Internship Task 3
